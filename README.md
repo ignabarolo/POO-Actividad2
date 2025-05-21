@@ -1,4 +1,4 @@
-# 🧑🏻‍💻**Programación Orientada a Objetos - Java**
+# 🧑🏻‍💻**Programación Orientada a Objetos - Actividad n° 2 - Java**
 
 Este repositorio demuestra la aplicación práctica de la Programación Orientada a Objetos (POO) en Java a través de cuatro mini-proyectos. Cada uno se enfoca en un concepto clave, presentando su implementación y código correspondiente para facilitar el aprendizaje.
 
